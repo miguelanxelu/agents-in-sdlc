@@ -30,7 +30,7 @@ Tailspin Toys アプリケーションとバックログを使い、現実的な
 
 ### [実践的な開発ワークショップを見る][real-world-development]
 
-GitHub Copilot CLI、GitHub Copilot app、GitHub Copilot cloud agent、Visual Studio Code から選択できます。
+GitHub Copilot CLI、GitHub Copilot app、GitHub Copilot cloud agent、Visual Studio Code から作業環境を選びます。
 
 > [!CAUTION]
 > GitHub Copilot は決定論的ではなく確率的に動作するため、生成されるコードや変更されるファイルは例と異なる場合があります。多少の違いは想定される動作です。
@@ -40,4 +40,4 @@ GitHub Copilot CLI、GitHub Copilot app、GitHub Copilot cloud agent、Visual St
 [first-steps-app]: first-steps/copilot-app/
 [first-steps-cli]: first-steps/copilot-cli/
 [first-steps-vscode]: first-steps/vscode/
-[real-world-development]: ../real-world-development/
+[real-world-development]: real-world-development/
